@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Mini Clipboard Manager</title>
+    <link rel="stylesheet" href="popup.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="header">
+        <h1>Clipboard Manager</h1>
+    </div>
+    <div class="instructions">
+        <div id="instructionHeader">
+            <span class="instructionIcon">?</span>
+        </div>
+        <div id="instructionContent">
+            <p>
+                <strong>How It Works:</strong><br />
+                • To save a URL, image, or text, right-click on it and choose “Save selection to Clipboard
+                Manager.”<br />
+                • Your saved items (up to 10) appear below with the date they were saved.<br />
+                • Use the "Copy" button to copy an individual item or "Delete" to remove it.
+            </p>
+        </div>
+    </div>
+    <!-- New actions section for copy all -->
+    <div class="actions">
+        <button id="copyAllBtn">Copy All Items</button>
+    </div>
+    <div id="itemsContainer"></div>
+    <script src="popup.js"></script>
+</body>
+
+</html>
