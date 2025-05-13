@@ -3,6 +3,12 @@
 
 A simple Chrome extension to save up to 10 items (text, images, URLs) and easily access them. View your saved items with timestamps, and quickly copy or delete them.
 
+## 🚀 Get the Extension
+
+You can install the Mini Clipboard Manager directly from the Chrome Web Store:
+
+[**Install from Chrome Web Store**](https://chromewebstore.google.com/detail/mini-clipboard-manager/bjnhcllpmobjnpcmmhmjnmmfgfphbchj)
+
 ## ✨ Features
 
 *   **Save Various Content Types:**
