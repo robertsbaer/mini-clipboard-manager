@@ -1,4 +1,5 @@
-# Mini Clipboard Manager <img src="icons/clipboard.png" alt="Clipboard Manager Logo" width="32" height="32">
+# Mini Clipboard Manager
+<img src="icons/clipboard.png" alt="Clipboard Manager Logo" width="400" height="400">
 
 A simple Chrome extension to save up to 10 items (text, images, URLs) and easily access them. View your saved items with timestamps, and quickly copy or delete them.
 
